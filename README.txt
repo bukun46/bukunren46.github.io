@@ -1,4 +1,7 @@
- Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Welcome to my personal website repo!!
+please visit my website at: https://bukun46.github.io/personal_website/
+
+Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
 
 
 Credits:
